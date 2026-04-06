@@ -18,5 +18,7 @@
 /settings/keyboard-and-mouse:键盘和鼠标
 /settings/language:语言界面
 /settings/multiplayer:多人游戏设置
+/settings/preview:预览版 (仅限 PlayStation)
+/settings/touch:轻触设置
 /settings/video:视频设置
 /start-from-template:从模板创建
