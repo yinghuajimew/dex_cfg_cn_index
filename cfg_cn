@@ -12,6 +12,8 @@
 /settings/accessibility:可访问性
 /settings/account:账户界面
 /settings/audio:音频设置
+/settings/controller:控制器设置
+/settings/creator:创建者设置
 /settings/default:默认设置
 /settings/game:游戏界面
 /settings/general:通用界面
@@ -19,6 +21,7 @@
 /settings/language:语言界面
 /settings/multiplayer:多人游戏设置
 /settings/preview:预览版 (仅限 PlayStation)
+/settings/storage:存储设置
 /settings/touch:轻触设置
 /settings/video:视频设置
 /start-from-template:从模板创建
